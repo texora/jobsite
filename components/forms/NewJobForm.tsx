@@ -194,7 +194,7 @@ const NewJobForm = ({ setOpen }: NewJobFormProps) => {
                     <Input
                       {...field}
                       className="w-full border-gray-400"
-                      placeholder="Estimate Salary"
+                      placeholder="Enter comapany name here"
                     />
                   </FormControl>
                   <FormMessage className="absolute" />
